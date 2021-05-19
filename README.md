@@ -4,24 +4,17 @@ This repository has articles about leadership and management, collected from var
 
 Files:
 
-* [The Most Important Leadership Competencies](the_most_important_leadership_compentencies.md)
-* [8 Essential Qualities That Define Great Leadership](8_essential_qualities_that_define_great_leadership.md)
-* [The 9 Traits That Define Great Leadership](the_9_traits_that_define_great_leadership.md)
-* [44 engineering management lessons](44_engineering_management_lessons.md)
-* [57 startup lessons](57_startup_lessons.md)
-* [The Webflow Tech Lead Guide](the_webflow_tech_lead_guide.md)
+* [8 Essential Qualities That Define Great Leadership](8-essential-qualities-that-define-great-leadership.md)
+* [20 Leadership Quotations by Elon Musk](20_leadership_quotations_by_elon_musk.md)
+* [44 Engineering Management Lessons](44-engineering-management-lessons.md)
+* [50 Ideas That Changed My Life by David Perell](50_ideas_that_changed_my life_by_david_perell.md)
+* [57 Startup Lessons](57-startup-lessons.md)
+* [GE McKinsey 9-box matrix](ge_mckinsey_9_box_matrix.md)
+* [How To Win Friends and Influence People](how_to_win_friends_and_influence_people.md)
+* [The Most Important Leadership Competencies](the-most-important-leadership-compentencies.md)
+* [The 9 Traits That Define Great Leadership](the-9-traits-that-define-great-leadership.md)
+* [The Webflow Tech Lead Guide](the-webflow-tech-lead-guide.md)
 
-Related links on the web:
-
-* [TED talks about leadership](https://www.ted.com/topics/leadership)
-
-
-Related links in our repositories:
-
-* [TEAM FOCUS](https://github.com/joelparkerhenderson/team_focus)
-* [Company culture](https://github.com/joelparkerhenderson/company_culture)
-* [Pitch deck](https://github.com/joelparkerhenderson/pitch_deck)
-* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
 
 ## The Leadership Guy
 
@@ -52,3 +45,10 @@ Harvard Business Review describes common leadership styles:
 * Charismatic leadership, in which leaders inspire enthusiasm in their teams and are energetic in motivating others to move forward.
 * Servant leadership, whose leaders focus on meeting the needs of the team.
 * Transactional leadership, in which leaders inspire by expecting the best from everyone and themselves.
+
+
+## Related
+
+Related links on the web:
+
+* [TED talks about leadership](https://www.ted.com/topics/leadership)
