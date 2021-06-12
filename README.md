@@ -2,7 +2,7 @@
 
 This repository has articles about leadership and management, collected from various sources.
 
-Files:
+Articles:
 
 * [8 Essential Qualities That Define Great Leadership](8-essential-qualities-that-define-great-leadership/index.md)
 * [20 Leadership Quotations by Elon Musk](20-leadership-quotations-by-elon-musk/index.md)
@@ -14,31 +14,8 @@ Files:
 * [How To Win Friends and Influence People](how-to-win-friends-and-influence-people/index.md)
 * [Leadership styles by Harvard Business Review](leadership-styles-by-harvard-business-review/index.md)
 * [Lessons Learned by Emmett Shear](lessons-learned-by-emmett-shear/index.md)
+* [Qualities of leadership by Peter Economy](qualities-of-leadership-by-peter-economy/index.md)
 * [The Evolution of Management by Kate Matsudaira](the-evolution-of-management-by-kate-matsudaira/index.md)
 * [The Most Important Leadership Competencies](the-most-important-leadership-compentencies/index.md)
 * [The 9 Traits That Define Great Leadership](the-9-traits-that-define-great-leadership/index.md)
 * [The Webflow Tech Lead Guide](the-webflow-tech-lead-guide/index.md)
-
-
-## The Leadership Guy
-
-Peter Economy, also known as "The Leadership Guy," says the qualities of today's best leadership are:
-
-* Decisiveness
-* Awareness
-* Focus
-* Accountability
-* Empathy
-* Confidence
-* Optimism
-* Honesty
-* Inspiration
-
-
-
-
-## Related
-
-Related links on the web:
-
-* [TED talks about leadership](https://www.ted.com/topics/leadership)
