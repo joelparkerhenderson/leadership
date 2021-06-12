@@ -1,4 +1,4 @@
-# Engineering managers; what are the problems you face?
+# Engineering managers, what are the problems you face?
 
 https://news.ycombinator.com/item?id=27264560
 
