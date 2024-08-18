@@ -21,3 +21,4 @@ Articles:
 * [The Webflow Tech Lead Guide](the-webflow-tech-lead-guide/)
 * [Solution-Focused Questions](solution-focused-questions/)
 * [8 Essential Interview Questions CEOs Swear By](8-essential-interview-questions-ceos-swear-by/)
+* [Ask for advice, not permission](ask-for-advice-not-permission/)
