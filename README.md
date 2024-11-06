@@ -14,6 +14,7 @@ Articles:
 * [How To Win Friends and Influence People](how-to-win-friends-and-influence-people/)
 * [Leadership styles by Harvard Business Review](leadership-styles-by-harvard-business-review/)
 * [Lessons Learned by Emmett Shear](lessons-learned-by-emmett-shear/)
+* [Periodic Table of Elements of Leadership and Management by Mike Mears](periodic-table-by-mike-mears/)
 * [Qualities of leadership by Peter Economy](qualities-of-leadership-by-peter-economy/)
 * [The Evolution of Management by Kate Matsudaira](the-evolution-of-management-by-kate-matsudaira/)
 * [The Most Important Leadership Competencies](the-most-important-leadership-compentencies/)
