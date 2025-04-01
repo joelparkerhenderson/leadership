@@ -9,6 +9,7 @@ Articles:
 * [44 Engineering Management Lessons](44-engineering-management-lessons/)
 * [50 Ideas That Changed My Life by David Perell](50-ideas-that-changed-my-life-by-david-perell/)
 * [57 Startup Lessons](57-startup-lessons/)
+* [Amazon Leadership Principles](amazon-leadership-principles/)
 * [GE McKinsey 9-box matrix](ge-mckinsey-9-box-matrix/)
 * [Engineering managers, what are the problems you face?](engineering-manager-problems/)
 * [How To Win Friends and Influence People](how-to-win-friends-and-influence-people/)
