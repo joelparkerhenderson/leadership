@@ -13,6 +13,7 @@ Articles:
 - [GE McKinsey 9-box matrix](ge-mckinsey-9-box-matrix/)
 - [Engineering managers, what are the problems you face?](engineering-manager-problems/)
 - [How To Win Friends and Influence People](how-to-win-friends-and-influence-people/)
+- [How To Develop Good Research Questions by Megan A. K. Peters](how-to-develop-good-research-questions-by-megan-a-k-peters/)
 - [Leadership styles by Harvard Business Review](leadership-styles-by-harvard-business-review/)
 - [Lessons Learned by Emmett Shear](lessons-learned-by-emmett-shear/)
 - [Leadership principles by United States Marine Corps](leadership-principles-by-united-states-marine-corps/)
