@@ -408,3 +408,66 @@ Grove's discipline ends where it started, inside their language. So test the pla
 If it fits, they closed themselves in their own words. If it doesn't, you hear it now, from them, instead of in a follow-up that never gets answered.
 
 Their words built the case. Let their words test it.
+
+## Doctor conversations
+
+### 1. "You know your body better than I do. What brings you in today?"
+
+Heritage and Robinson filmed 302 doctor visits. Open questions like "What brings you in?" got patients talking for 27 seconds on average. Confirming what the chart said got them talking for 12. Your intake form already says where it hurts.
+
+Ask the open question anyway.
+
+The form gives you the complaint.
+
+The patient gives you the reason.
+
+### 2. "Is there something else you want to address in the visit today?"
+
+Then Heritage's team tested one word.
+
+Doctors asked it right after the main complaint. Patients with more to raise said yes to "something else" 90% of the time, and to "anything else" 53%. With
+"something", unmet concerns fell from 37% to 9%. Ask it before the exam, eyes on them, not the chart.
+
+"Any" expects a no.
+
+"Some" expects an answer.
+
+### 3. "I can't promise you a timeline. I can tell you exactly what I found."
+
+In a 1987 BMJ trial, a British family doctor randomly split 200 patients. Half got a firm diagnosis and were told, confidently, they'd be better in a few days. Half heard "I cannot be certain what is the matter with you." Two weeks later, 64% of the first group said they got better. 39% of the second.
+
+Don't promise the result.
+
+Don't hedge the findings.
+
+### 4. "I'm going to start you on..."
+
+UCLA's Tanya Stivers and colleagues studied 697 recorded recommendations for new medication. Lines like "I'm going to start you on..." met pushback 11% of the time. "Why don't we..." and "Would you like me to..." met it 30%. Those two say the plan isn't settled, or hand the patient the whole decision.
+
+Recommend it like you mean it.
+
+Then take every question.
+
+### 5. "Here's the plan, and here's how often I need to see you."
+
+UCLA randomized 681 back pain patients to medical or chiropractic care. 61% of the chiropractic patients said their plan was explained, like how often to come in. 16% of the medical patients did. That, plus self-care advice, accounted for much of why chiropractic patients were more satisfied. Say the schedule yourself.
+
+The plan isn't explained until the schedule is.
+
+### 6. "I only see you a few minutes a week. Here's what to do with the rest."
+
+The same trial counted the kinds of self-care advice each patient got: exercises, ice, heat, how to handle work.
+
+Patients who got four or more were 6.1 points more satisfied than patients who got one or none. The whole gap between chiropractic and medical patients was 5.5.
+
+Hand them a short list before they leave.
+
+Homework makes them part of the plan.
+
+### 7. "If something in this plan doesn't work for you, tell me now."
+
+Stivers' research shows doctors rarely end a visit until the patient has openly accepted the treatment. When the yes doesn't come, they don't move on. They restate it, give the reason, or adjust it. Silence isn't a yes. Get the problem out while you can still answer it.
+
+Don't end the visit on a nod.
+
+End it on a yes.
